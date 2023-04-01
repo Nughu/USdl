@@ -1,5 +1,5 @@
 # USdl
-a crappy app that automatically downloads UltraStar audio/video files for private use.
+a crappy app that automatically downloads audio/video files for UltraStar song .txt files. Private use only.
 
 # Prerequisites:
 
