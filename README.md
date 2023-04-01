@@ -4,6 +4,7 @@ a crappy app that automatically downloads corresponding audio/video files for Ul
 # Prerequisites:
 
 Python 3.x
+Windows i guess
 
 
 # Usage:
